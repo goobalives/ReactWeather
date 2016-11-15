@@ -1,7 +1,7 @@
-var React = require('React');
+var React = require('react');
 
 var Examples = () => {
-  return (<h3>Examples Component</h3>)
+  return (<h3>Examples</h3>)
 };
 
 module.exports = Examples;
